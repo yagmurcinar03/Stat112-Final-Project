@@ -21,5 +21,5 @@ This project analyzes laptop market data to understand pricing trends, product f
 
 ## Files
 - cleaning.py → data cleaning process
-- visualization.py → data visualization and analysis
-- Laptop_Market_Analysis_Report.pdf → full report
+- visualization(1).py → data visualization and analysis
+- Stat112 Project Report.docx → full report
